@@ -1,0 +1,34 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+#hdrtxt {
+    color: white;
+    font-size: 50px;    
+}
+
+.dwnlndtxt {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+a {
+    color:aquamarine;
+}
+
+.midtxt {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#foot, #blur {
+    font-size: 21px;
+    color: gray;
+}
+
+#foot {
+    text-align: right;    
+}

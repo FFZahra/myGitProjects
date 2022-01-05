@@ -1,0 +1,68 @@
+header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+}
+
+#hdrow {
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: seagreen;
+    color:seashell;    
+}
+
+#hdrow th{
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+}
+
+.lfcol {
+    background-color:powderblue;
+    color:blue;
+    width: 115px;
+    height: 70px;
+    text-align: center;
+}
+
+.rtcol {
+    width: 700px;
+    padding-left: 10px;
+}
+
+#emph {
+    color:seagreen;
+}
+
+table {    
+    border-color: seagreen;
+    font-size: 20px;
+    border-style: solid;
+    margin-left:auto;
+    margin-right: auto;    
+}
+
+tr:nth-of-type(even) {
+    background-color: lightcyan;
+}
+
+table td {
+    border-color: tan;
+    border-style: dashed;
+    border-width: 2px;
+}
+
+#footxt {
+    padding-left: 50px;
+    background-color: seashell;
+}
+
+.contrast{
+    color:seagreen;
+    font-weight: bold;
+}
